@@ -3,7 +3,7 @@ import os,sys,re,subprocess,ast,json
 
 class Grocery:
 
-	stores=[]
+  stores=[]
 	items=[]
 	item_price={}
 
